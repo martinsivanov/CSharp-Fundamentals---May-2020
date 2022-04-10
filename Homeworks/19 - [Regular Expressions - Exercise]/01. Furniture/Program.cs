@@ -47,6 +47,7 @@ namespace _01._Furniture
             }
             Console.WriteLine($"Total money spend: {totalMoney:f2}");
             Console.WriteLine($"Total money spend: {totalMoney:f2}");
+            Console.WriteLine($"Total money ss: {totalMoney:f2}");
         }
     }
 }
