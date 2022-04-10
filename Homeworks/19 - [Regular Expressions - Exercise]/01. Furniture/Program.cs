@@ -46,8 +46,6 @@ namespace _01._Furniture
                 Console.WriteLine($"{string.Join(Environment.NewLine, list)}");
             }
             Console.WriteLine($"Total money spend: {totalMoney:f2}");
-            Console.WriteLine($"test");
-            Console.WriteLine($"tes2");
         }
     }
 }
